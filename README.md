@@ -5,6 +5,8 @@ numerical algorithms and the informed use of mathematical software. Matrix compu
 equations, and differential equations. The whole project is consist of 7 subsections, each has one specific topic
 to explore. The project process as a record of exploration on fast solution to actual problem based on machine.
 
+## Warning: Direct copying is strictly prohibited and will be at your own risk.
+
 ## Main topics
 
 * Math prerequisites, linear algebra
